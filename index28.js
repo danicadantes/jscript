@@ -1,0 +1,21 @@
+const number=9;
+const number2=1;
+const number3=2;
+const number4=3;
+const number5=4;
+const number6=5;
+const number7=6;
+const number8=7;
+const number9=8;
+const number10=10;
+
+console.log(`${number} times ${number2} equals ${number*number2}`);
+console.log(`${number} times ${number3} equals ${number*number3}`);
+console.log(`${number} times ${number4} equals ${number*number4}`);
+console.log(`${number} times ${number5} equals ${number*number5}`);
+console.log(`${number} times ${number6} equals ${number*number6}`);
+console.log(`${number} times ${number7} equals ${number*number7}`);
+console.log(`${number} times ${number8} equals ${number*number8}`);
+console.log(`${number} times ${number9} equals ${number*number9}`);
+console.log(`${number} times ${number} equals ${number*number}`);
+console.log(`${number} times ${number10} equals ${number*number10}`);
