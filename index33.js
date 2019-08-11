@@ -3,7 +3,7 @@ let userCount = 100
 //userCount -= 3;
 userCount *= 2;
 
-console.log(userCount);
+console.log(`Usercount after buying a new company: ${userCount}`);
 
 let userWomen = userCount/2;
 console.log(`Women count: ${userWomen}`);
