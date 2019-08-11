@@ -1,5 +1,9 @@
-let income = 1000;
-let revenue = 600;
-let taxes = 500;
+const income = 1000;
+const revenue = 600;
+const taxes = 500;
 
-income >=800;
+augustObjective >=800;
+taxesObjective <=400;
+bonus == 600;
+
+console.log(incomeObjective);
