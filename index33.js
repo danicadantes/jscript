@@ -1,12 +1,13 @@
-const userCount = 100
-//userCount += 5;
-//userCount -= 3;
-userCount *= 2;
+let userCount = 100;
 
-console.log(`Usercount after buying a new company: ${userCount}`);
+userCount +=5;
+console.log('Users Count plus 5:',userCount);
 
-const userWomen = userCount/2;
-console.log(`Women count: ${userWomen}`);
+userCount -=3;
+console.log('Users Count minus 3:',userCount);
 
-const userMen = userCount/2;
-console.log (`Men count: ${userMen}`);
+userCount *=2;
+console.log('Users Count after buying a new company:',userCount);
+
+userCount /=2;
+console.log('User Count Men:',userCount +' '+'and'+' '+ 'User Count Women:',userCount);
