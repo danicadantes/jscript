@@ -1,5 +1,5 @@
-const firstNumber=10;
-const secondNumber=20;
-const result = firstNumber == secondNumber;
+let firstNumber=10;
+let secondNumber=20;
+let result = firstNumber == secondNumber;
 console.log(result);
 console.log(!result);
