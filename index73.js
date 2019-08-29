@@ -1,8 +1,8 @@
-let x = 1;
+let x = 13;
 
-while ( x < 14 ) { 
+while ( x >= 0 ) { 
     
-    let y = 1;
+    let y = 0;
     resulta = '';
 
     while ( y <= x ){        
@@ -11,6 +11,5 @@ while ( x < 14 ) {
     }   
      
     console.log(resulta);  
-    x++;
+    x--;
 }
-
