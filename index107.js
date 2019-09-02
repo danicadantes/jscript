@@ -8,10 +8,10 @@ function biggerNumber(firstNumber,secondNumber) {
             console.log(`Both numbers are ${secondNumber}`);
         }
     } else {
-        console.log(`error ${firstNumber} or ${secondNumber} is not a number`);
+        console.log(`Error ${firstNumber} or ${secondNumber} is not a number`);
     }
 }
 biggerNumber(3,5);
 biggerNumber(6,3);
 biggerNumber(2,2);
-biggerNumber('ee',3)
+biggerNumber('404',3)
